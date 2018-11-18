@@ -10,3 +10,6 @@ _hey_
 
 ### Release 0.2.4 is here
 More tag stuff
+
+### Release 0.2.7 is here
+More tag stuff - version is bumped to align
