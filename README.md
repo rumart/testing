@@ -7,3 +7,6 @@ _hey_
 
 ### Release 0.2.3 is here
 - Added appveyor badge
+
+### Release 0.2.4 is here
+More tag stuff
